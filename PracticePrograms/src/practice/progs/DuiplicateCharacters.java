@@ -5,6 +5,8 @@ import java.util.Map;
 import java.util.Set;
 
 public class DuiplicateCharacters {
+	
+	//Count Duplicate Characters in String
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
